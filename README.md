@@ -1,2 +1,17 @@
 # crabgame
 2D mobile game with funny graphic and responsive physics using SpriteKit framework, also integrated with GameCenter.
+![start](./backlogoTAP.png)
+![end](./backEND.png)
+![gameplay](./back7.png)
+![crab gif](./crabgif.gif)
+![icon](./icon1.psd)
+![friday13](./lvlfriday13.png)
+![king](./lvlking.png)
+![logo](./revlogo crab snap.png)
+![friday13](./lvlfriday13.png)
+![shark](./sharkbad.png)
+![spiky](./spiky.png)
+![spikybig](./spikybig.png)
+![pfish](./pfish.png)
+![yfish](./yfish.png)
+![gfish](./gfish.png)
