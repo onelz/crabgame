@@ -7,6 +7,7 @@
 * Combo for 
 
 # Gameplay
+the objective is to get as much point before you get caught and killed by your enemies
 ###### Start page
 ![start](./backlogoTAP.png)
 ###### In game
