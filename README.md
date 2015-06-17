@@ -11,7 +11,6 @@ the objective is to get as much point before you get caught and killed by your e
 ###### Start page
 ![start](./backlogoTAP.png)
 ###### In game
-the objective is to get as much point before you get caught and killed by your enemies
 ![gameplay](./back7.png)
 ###### Game over
 ![end](./backEND.png)
